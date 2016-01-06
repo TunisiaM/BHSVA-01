@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+    <head>
+        <title>A Different Case</title>
+            <style>
+		p:first-child {
+		    text-size: 2px;
+		    text-align: right;
+		}
+
+                h1 {
+                    text-align: center;
+                }
+        
+                body {
+                    text-align: center;
+		    background: black;
+                    color: black;
+                    font-family: Helvetica;
+                }
+                    
+                div {
+		    text-align: left;
+                    color: black;
+                    font-family: Helvetica;
+                }
+
+		a hover {
+		    text-color: ;
+		}
+        
+	    </style>
+    </head>
+    <body>
+    <body style="background-color:white">
+	        <img src="http://c2.com/ward/morse/MorseCodeForever.png">
+			<p>I do not own this image.</p>
+	        <h1><strong>TM123</strong></h1>
+	            <p style="font-family:Times New Roman"><em>A video editor and programmer setting forth to capture captivating content through a series of rgb, commands, and numbers</em></p>
+		<div>
+	        <ul>
+	            <ul style= "font-size: 20px">About</ul>
+	                <ul>
+	                    <li>An Enthusiast of Data and Social Inevitables. Merging frame and matter to see light.</li>
+	                    <li>As a video editor and programmer, I develop, produce, and publish captivating content to increase the interconnectivity between knowledge and information.</li>
+	               </ul>
+		    <br></br>   
+	            <ul style= "font-size: 20px">Interests</ul>
+	                <ul>
+	                    <li>Creating pieces that take an in-depth approach in gathering fact-based information.</li>
+	                </ul>
+		    <br></br>
+	            <ul style= "font-size: 20px">Services</ul>
+	                <ul>
+	                    <li>Featured Documentaries</li>
+	                    <li>Promos</li>
+	                </ul>
+		    <br></br>
+	            <ul style= "font-size: 20px">Contact</ul>
+	                <ol>
+	                    <li style="color:grey"><a href="www.linkedin.com/in/tunisiamitchell/">LinkedIn</li>
+	                    <li style="color:grey"><a href="https://twitter.com/adifferentcase">Twitter</li>
+	                </ol>
+	       </ul>
+	       <br></br>
+	</div>
+	       <input type="email" placeholder="Email">
+	       <input type="submit">
+	</body>
